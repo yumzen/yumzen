@@ -36,6 +36,5 @@
 </p>
 <br></br>
 <h2>🫧 Github Stats</h2>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyumzen%2Fhit-counter&count_bg=%23F5A5FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <p><img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=yumzen&count_private=true&custom_title=Yumzen's&nbsp;github&nbsp;💭&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff" alt="yumzen" /></p>
 </div>
