@@ -19,17 +19,17 @@
       <li>4th Frontend Member <sub>(2023.03 ~ 2023.08)</sub></li>
       <li>5th Backend Member <sub>(2023.09 ~ 2024.02)</sub></li>
       <li>6th Backend Leader & Management <sub>(2024.03 ~ 2024.08)</sub></li>
-      <li>7th Vice President <sub>(2024.09 ~ 2025.02)</sub></li>
+      <li>7th Vice Leader <sub>(2024.09 ~ 2025.02)</sub></li>
     </ul>
   </li>
   <li>
-    <strong>BlockChain Valley (Blockchain Club)</strong>  
+    <strong>BlockChain Valley</strong>  
     <ul>
       <li>5th Develop Team Member <sub>(2024.03 ~ 2024.08)</sub></li>
     </ul>
   </li>
   <li>
-    <strong>ITA (IT’s Time, University IT Club)</strong>  
+    <strong>ITA (IT’s Time)</strong>  
     <ul>
       <li>6th Backend Member <sub>(2024.09 ~ 2025.01)</sub></li>
     </ul>
