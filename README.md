@@ -34,39 +34,20 @@
       <li>6th Backend Member <sub>(2024.09 ~ 2025.01)</sub></li>
     </ul>
   </li>
+  <li>
+    <strong>KUSITMS(Korean University Student IT Management Society)</strong>  
+    <ul>
+      <li>31th Backend Member <sub>(2025.02 ~ now)</sub></li>
+    </ul>
+  </li>
 </ul>
 </p>
 
-<h2>🏆 Awards</h2>
-  <ul>
-    <li>
-      <strong>🏅 Algorand Global Hackathon 2024: Change The Game</strong>  
-      <ul>
-        <li>2nd Prize in Consumer Track <sub>(2024.06.19)</sub></li>
-        <li><strong>CAN</strong>: Designed and developed a café membership application leveraging NFT technology</li>
-      </ul>
-    </li>
-    <li>
-      <strong>🏅 6th UMC Hackathon Seoul</strong>  
-      <ul>
-        <li>2nd Prize <sub>(2024.07.06)</sub></li>
-        <li><strong>Armagetdon</strong>: Developed the backend for an app project that allows users to post positive comments on YouTube, earn money after verification</li>
-      </ul>
-    </li>
-    <li>
-      <strong>🏅 Blaybus Performance Sharing Semester 2, 2024</strong>  
-      <ul>
-        <li>Excellence Prize <sub>(2025.01.22)</sub></li>
-        <li><strong>Encore</strong>: Developed the backend for a musical community app service</li>
-      </ul>
-    </li>
-  </ul>
-
   <h2>🌀 Certificates</h2>
   
-  | AWS SAA                                   | SQLD                                   |
-  |------------------------------------------|----------------------------------------|
-  | <a href="https://www.credly.com/badges/7e58e66e-9767-48d5-9a86-a705a2271001/public_url"><img src="https://github.com/user-attachments/assets/fb6100ae-f68d-42d1-8bdf-c933333bb47c" width="100"/></a> |<img src ="https://github.com/user-attachments/assets/67736698-d378-4724-9161-19cc4b298ddc" width="100"/> |
+  | AWS SAA                                   |
+  |------------------------------------------|
+  | <a href="https://www.credly.com/badges/7e58e66e-9767-48d5-9a86-a705a2271001/public_url"><img src="https://github.com/user-attachments/assets/fb6100ae-f68d-42d1-8bdf-c933333bb47c" width="100"/></a> |
 
 
   <h2>🫧 Github Stats</h2>
