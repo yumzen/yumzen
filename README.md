@@ -1,7 +1,7 @@
 
 <div align="left">
   <h2>✨Yumzen's Github✨</h2>
-  <p>😄 I'm interested in Back-End development.</p>
+  <p>😄 I'm interested in Back-end development.</p>
   <p>📧 E-mail: yeom.ji.eun35@gmail.com</p>
 
 <h2>🚀 Experience</h2>
@@ -37,7 +37,7 @@
   <li>
     <strong>KUSITMS(Korean University Student IT Management Society)</strong>  
     <ul>
-      <li>31th Backend Member <sub>(2025.02 ~ now)</sub></li>
+      <li>31th Backend Member <sub>(2025.02 ~ 2025.05)</sub></li>
     </ul>
   </li>
 </ul>
