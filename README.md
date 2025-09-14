@@ -48,8 +48,3 @@
   | AWS SAA                                   |
   |------------------------------------------|
   | <a href="https://www.credly.com/badges/7e58e66e-9767-48d5-9a86-a705a2271001/public_url"><img src="https://github.com/user-attachments/assets/fb6100ae-f68d-42d1-8bdf-c933333bb47c" width="100"/></a> |
-
-
-  <h2>🫧 Github Stats</h2>
-  <p><img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=yumzen&count_private=true&custom_title=Yumzen's&nbsp;github&nbsp;💭&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff" alt="yumzen" /></p>
-</div>
