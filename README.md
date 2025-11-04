@@ -4,7 +4,7 @@
   <p>😄 I'm interested in backend development.</p>
   <p>📧 E-mail: yeom.ji.eun35@gmail.com</p>
 
-<h2>🚀 Experience</h2>
+<h2>🚀 Activities</h2>
 <p align="left" style="font-size: 14px;">
 <ul>
   <li>
