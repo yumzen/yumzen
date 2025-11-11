@@ -2,8 +2,14 @@
 <div align="left">
   <h2>✨Yumzen's Github✨</h2>
   <p>😄 I’m interested in backend development, mainly based on Java and Spring Boot.</p>
-  <p>🤓 Through eight academic club activities, I have built the capability to embrace new technologies and environments, rapidly acquire knowledge, and translate it into measurable outcomes.</p>
   <p>📧 E-mail: yeom.ji.eun35@gmail.com</p>
+<h2>🏢 Experience</h2>
+<p align="left" style="font-size: 14px;">
+<ul>
+  <li>
+    디웨일 Backend Engineer Intern <sub>(2025.11 ~ )</sub>
+  </li>
+</ul>
 
 <h2>🚀 Activities</h2>
 <p align="left" style="font-size: 14px;">
